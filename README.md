@@ -1,1 +1,1 @@
-# Testing of committomg
+# Testing of committing of record
