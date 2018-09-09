@@ -1,1 +1,1 @@
-# Testing of committing of records
+# Testing of committing of record
